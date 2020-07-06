@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\422fec0bf7ca9036183a5ca12aa5bc98\AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\ba288ebbad23cc471ea682b8a2e64730\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\e7f851822d87a11cfade62c1ad3ab1e2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\65db945c2d0f8f836fb4100d084b7682\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\9d7de6abab99b2081116af13d8e25fc4\AndroidManifest.xml:2:1-9:12
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\69663c5f70ab4138cef4326dbc8e9ce1\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\ade5586e5aa3f3939ee9a44771539fee\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\b0862533ebdce79d21a45a0bc57d3268\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\fb1e3356a3a254f99c2d2ff095cca2e7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\b203a56e1bd8e72b67ecebe6d3ef09cb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\be2b29481340ebe5c214d0675abd748a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\5dfb557d0b919a975c1cb54ae9e3fea4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\bc2868f48522d1a4faff263f4bc47f10\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\04b34a08e4f08e24baaa8ddb337bb4fa\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\612d6bddd32fe960cc854061c54e9be6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\d0dac938b74a03304288f80fb32d330a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\1b936eae8486abfa0c9b128196c771d0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\bfb39a9e2ac5be9284bed55f5d532d68\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\a02756ccfb004f552e8b7afe9b91374f\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\e2760d2ebea2c3d542da0bbad5829608\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\b4f64f8024c5eb7ac1732e0a500b1154\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\73f5a63b5c33ac32f9b43bcc796697b3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\3fd20036c6d41975ef4ecfcfc5e7f74e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\dfd076064cf567ca9aa0b7fc2df09dee\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\878746bb93f67fa6aa0f353366088f98\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\f189955cc9e056a52e06daa434b0ad55\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:4:11-65
+		INJECTED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:6:3-15
+INJECTED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:6:3-15
+INJECTED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:6:3-15
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\422fec0bf7ca9036183a5ca12aa5bc98\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\422fec0bf7ca9036183a5ca12aa5bc98\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\ba288ebbad23cc471ea682b8a2e64730\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\ba288ebbad23cc471ea682b8a2e64730\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\e7f851822d87a11cfade62c1ad3ab1e2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\e7f851822d87a11cfade62c1ad3ab1e2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\65db945c2d0f8f836fb4100d084b7682\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\65db945c2d0f8f836fb4100d084b7682\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\9d7de6abab99b2081116af13d8e25fc4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\9d7de6abab99b2081116af13d8e25fc4\AndroidManifest.xml:5:5-44
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\69663c5f70ab4138cef4326dbc8e9ce1\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\69663c5f70ab4138cef4326dbc8e9ce1\AndroidManifest.xml:7:5-8:41
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\ade5586e5aa3f3939ee9a44771539fee\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\ade5586e5aa3f3939ee9a44771539fee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\b0862533ebdce79d21a45a0bc57d3268\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\b0862533ebdce79d21a45a0bc57d3268\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\fb1e3356a3a254f99c2d2ff095cca2e7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\fb1e3356a3a254f99c2d2ff095cca2e7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\b203a56e1bd8e72b67ecebe6d3ef09cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\b203a56e1bd8e72b67ecebe6d3ef09cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\be2b29481340ebe5c214d0675abd748a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\be2b29481340ebe5c214d0675abd748a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\5dfb557d0b919a975c1cb54ae9e3fea4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\5dfb557d0b919a975c1cb54ae9e3fea4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\bc2868f48522d1a4faff263f4bc47f10\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\bc2868f48522d1a4faff263f4bc47f10\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\04b34a08e4f08e24baaa8ddb337bb4fa\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\04b34a08e4f08e24baaa8ddb337bb4fa\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\612d6bddd32fe960cc854061c54e9be6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\612d6bddd32fe960cc854061c54e9be6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\d0dac938b74a03304288f80fb32d330a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\d0dac938b74a03304288f80fb32d330a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\1b936eae8486abfa0c9b128196c771d0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\1b936eae8486abfa0c9b128196c771d0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\bfb39a9e2ac5be9284bed55f5d532d68\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\bfb39a9e2ac5be9284bed55f5d532d68\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\a02756ccfb004f552e8b7afe9b91374f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\a02756ccfb004f552e8b7afe9b91374f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\e2760d2ebea2c3d542da0bbad5829608\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\e2760d2ebea2c3d542da0bbad5829608\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\b4f64f8024c5eb7ac1732e0a500b1154\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\b4f64f8024c5eb7ac1732e0a500b1154\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\73f5a63b5c33ac32f9b43bcc796697b3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\73f5a63b5c33ac32f9b43bcc796697b3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\3fd20036c6d41975ef4ecfcfc5e7f74e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\3fd20036c6d41975ef4ecfcfc5e7f74e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\dfd076064cf567ca9aa0b7fc2df09dee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\dfd076064cf567ca9aa0b7fc2df09dee\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\878746bb93f67fa6aa0f353366088f98\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\878746bb93f67fa6aa0f353366088f98\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\f189955cc9e056a52e06daa434b0ad55\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\f189955cc9e056a52e06daa434b0ad55\AndroidManifest.xml:20:5-44
+INJECTED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:6:3-15
+INJECTED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:6:3-15
+	android:targetSdkVersion
+		INJECTED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:6:3-15
+		INJECTED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:6:3-15
+		MERGED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:6:3-15
+		INJECTED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:8:3-24:17
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\422fec0bf7ca9036183a5ca12aa5bc98\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\422fec0bf7ca9036183a5ca12aa5bc98\AndroidManifest.xml:11:5-15:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\65db945c2d0f8f836fb4100d084b7682\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\65db945c2d0f8f836fb4100d084b7682\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\9d7de6abab99b2081116af13d8e25fc4\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\9d7de6abab99b2081116af13d8e25fc4\AndroidManifest.xml:7:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\69663c5f70ab4138cef4326dbc8e9ce1\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\69663c5f70ab4138cef4326dbc8e9ce1\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\ade5586e5aa3f3939ee9a44771539fee\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\ade5586e5aa3f3939ee9a44771539fee\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\1b936eae8486abfa0c9b128196c771d0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\1b936eae8486abfa0c9b128196c771d0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\a02756ccfb004f552e8b7afe9b91374f\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\a02756ccfb004f552e8b7afe9b91374f\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\1b936eae8486abfa0c9b128196c771d0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:13:11-37
+	android:label
+		ADDED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:11:11-50
+	tools:ignore
+		ADDED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:15:11-50
+	android:roundIcon
+		ADDED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:12:11-56
+	android:icon
+		ADDED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:10:11-45
+	android:allowBackup
+		ADDED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:9:11-37
+	android:theme
+		ADDED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:14:11-58
+activity#org.tensorflow.lite.examples.digitclassifier.MainActivity
+ADDED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:17:5-23:16
+	android:exported
+		ADDED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:18:15-38
+	android:name
+		ADDED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:17:15-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:19:7-22:23
+action#android.intent.action.MAIN
+ADDED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:20:9-60
+	android:name
+		ADDED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:20:17-58
+category#android.intent.category.LAUNCHER
+ADDED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:21:9-68
+	android:name
+		ADDED from D:\MLFT\upchool\android\examples\lite\examples\digit_classifier\android\app\src\main\AndroidManifest.xml:21:19-66
+activity#com.divyanshu.draw.activity.DrawingActivity
+ADDED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\422fec0bf7ca9036183a5ca12aa5bc98\AndroidManifest.xml:12:9-14:66
+	android:theme
+		ADDED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\422fec0bf7ca9036183a5ca12aa5bc98\AndroidManifest.xml:14:13-63
+	android:name
+		ADDED from [com.github.divyanshub024:AndroidDraw:v0.1] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\422fec0bf7ca9036183a5ca12aa5bc98\AndroidManifest.xml:13:13-71
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\ade5586e5aa3f3939ee9a44771539fee\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\ade5586e5aa3f3939ee9a44771539fee\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\ialimustufa\.gradle\caches\transforms-2\files-2.1\ade5586e5aa3f3939ee9a44771539fee\AndroidManifest.xml:24:13-58
